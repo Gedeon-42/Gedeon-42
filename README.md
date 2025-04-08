@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-## About me
+## About Me
 
 🌱 I’m currently learning All I can
 
@@ -8,7 +8,7 @@
 
 📫 How to reach me umwizerwagedeon@gmail.com
 
-⚡ Fun fact I Watch Foootball and play Foot ball some times.
+⚡ Fun fact I Watch Football and play Football some times.
 
 
 
