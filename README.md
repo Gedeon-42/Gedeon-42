@@ -1,9 +1,16 @@
 ## Hi there 👋
 
+## About me
+
+🌱 I’m currently learning All I can
+
+👯 I’m looking to collaborate on OpenSource Projects
+
+📫 How to reach me umwizerwagedeon@gmail.com
+
+⚡ Fun fact I Watch Foootball and play Foot ball some times.
 
 
-🚀 Languages and Tools:
-https://react.dev/
 
 <!--
 **Gedeon-42/Gedeon-42** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
